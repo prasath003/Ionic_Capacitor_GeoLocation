@@ -1,0 +1,6 @@
+{
+  "appId": "com.mac.app",
+  "appName": "capacitor",
+  "bundledWebRuntime": true,
+  "webDir": "www"
+}
